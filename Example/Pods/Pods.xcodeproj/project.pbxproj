@@ -37,7 +37,6 @@
 		D6B1B0AC7F376A0FC6DADEEAA737E508 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = C095B69FB8375794D8236558C70DAAE0 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		DBADABF56FC0675DEE45B90CE6AFA4E7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC5E9FF730C28FC315DD1249D72A070C /* UIKit.framework */; };
 		E3B86D234BC43FB8877126BFDD760867 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B89C323C789A72335F3693734707F15 /* FBSnapshotTestCasePlatform.m */; };
-		E5683392316FEE9EEA39E1959687FA54 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 34B11D627675CFD84CA88DBB2A504704 /* ReplaceMe.m */; };
 		E7F0B09F899DBFE173736F8AE258ED48 /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 2015821C6F52E13E032E0E4B9D53AFE7 /* UIImage+Diff.m */; };
 		F8DF0374879AD9CA64E209F5E1A423B4 /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A648BA81C182E1424B9B336EA8F50B1 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -82,7 +81,6 @@
 		30D5E798CC09E3940A95EE1E6DB85757 /* CocoaPodsDemo.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CocoaPodsDemo.xcconfig; sourceTree = "<group>"; };
 		34403936227E9821002C6476 /* AvaDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AvaDemo.h; path = CocoaPodsDemo/Classes/AvaDemo.h; sourceTree = "<group>"; };
 		34403937227E9821002C6476 /* AvaDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AvaDemo.m; path = CocoaPodsDemo/Classes/AvaDemo.m; sourceTree = "<group>"; };
-		34B11D627675CFD84CA88DBB2A504704 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = CocoaPodsDemo/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		355478EF2F7D9443BCE6A0515815626F /* Pods-CocoaPodsDemo_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CocoaPodsDemo_Example-frameworks.sh"; sourceTree = "<group>"; };
 		37CE080AD13330E68000A4133445B550 /* Pods-CocoaPodsDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CocoaPodsDemo_Example.modulemap"; sourceTree = "<group>"; };
 		3C97720D07754B8F519F93D7CA5AD48B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -175,7 +173,6 @@
 			children = (
 				34403936227E9821002C6476 /* AvaDemo.h */,
 				34403937227E9821002C6476 /* AvaDemo.m */,
-				34B11D627675CFD84CA88DBB2A504704 /* ReplaceMe.m */,
 				84B0AAB2D7DA5832A25F6F86B5317420 /* Pod */,
 				C5F18884107BD51EB117F70AEB3ECAB1 /* Support Files */,
 			);
@@ -583,7 +580,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CF1C5A52093E612C26E809A5F2610D8 /* CocoaPodsDemo-dummy.m in Sources */,
-				E5683392316FEE9EEA39E1959687FA54 /* ReplaceMe.m in Sources */,
 				34403939227E9821002C6476 /* AvaDemo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
