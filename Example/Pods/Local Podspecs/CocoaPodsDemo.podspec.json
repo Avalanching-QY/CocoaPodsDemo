@@ -1,6 +1,6 @@
 {
   "name": "CocoaPodsDemo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of CocoaPodsDemo.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/avanlanching/CocoaPodsDemo",
@@ -12,11 +12,11 @@
     "avanlanching": "18269285634@163.com"
   },
   "source": {
-    "git": "https://github.com/avanlanching/CocoaPodsDemo.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/Avanlanching/CocoaPodsDemo.git",
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "CocoaPodsDemo/Classes/**/*"
 }
