@@ -1,6 +1,6 @@
 //
-//  AvaDemo.h
-//  CocoaPodsDemo
+//  AvaLogObject.h
+//  FBSnapshotTestCase
 //
 //  Created by Avalanching on 2019/5/5.
 //
@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface AvaDemo : NSObject
+@interface AvaLogObject : NSObject
 
 @end
 

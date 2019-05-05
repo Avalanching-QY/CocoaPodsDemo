@@ -1,5 +1,5 @@
 PODS:
-  - CocoaPodsDemo (0.1.0)
+  - CocoaPodsDemo (0.1.1)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -19,9 +19,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CocoaPodsDemo: babb998a85db2b22f7f68e2c4eb444401cd1220c
+  CocoaPodsDemo: b18342d014aa6b4d02b5da7bb812b77e3782cc37
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
-PODFILE CHECKSUM: 01f4e3a8a36913d9eb1ed9bf4b40518501db582e
+PODFILE CHECKSUM: 69742ec98fc559ed25e17cd80c30562fbb537e36
 
 COCOAPODS: 1.5.3
